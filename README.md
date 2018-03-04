@@ -1,7 +1,7 @@
-# Visualize live sentiment analysis on dashboard using Dash by plotly
+# Visualize live sentiment analysis on a dynamic dashboard using Dash by plotly
 
 
-Visualize live sentiment using Twitter API on a dashboard created using dash library in python
+Visualize live sentiment using Twitter API on a dynamic dashboard created using dash library in python
 
 Modules required: tweepy, vaderSentiment , unidecode
 Pip install the above modules.
